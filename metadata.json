@@ -1,0 +1,8 @@
+{
+  "name": "Âm nhạc Cánh Diều - Cô Thuý Hoa",
+  "description": "Ứng dụng học âm nhạc theo chương trình sách giáo khoa Cánh Diều 2018 dành cho học sinh tiểu học khối 1-5, tích hợp trợ lý AI giáo viên Nguyễn Thị Thuý Hoa.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
